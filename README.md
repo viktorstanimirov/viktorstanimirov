@@ -1,10 +1,5 @@
 ## Hi, I am Viktor Stanimirov! 
-</br>
 
-# SoftUni_Python
-
-
-<p align="left">Hello World!!</p>
 
 ###
 
