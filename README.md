@@ -3,7 +3,7 @@
 
 ###
 <div align="center">
-<img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" align="center" style="width: 40%" />
+<img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" align="center" style="width: 50%" />
 </div>  
 
 
