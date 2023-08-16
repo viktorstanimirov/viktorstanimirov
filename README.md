@@ -24,9 +24,7 @@
 <div align="left">
 </div>
 
-
 ###
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&pause=1200&color=D4E7F7&width=650&height=70&lines=%F0%9F%98%82Here+is+a+random+joke+that'll+make+you+laugh%F0%9F%98%82!" alt="Typing SVG" /></a>
 ## 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
