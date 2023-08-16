@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=40&pause=1200&color=D4E7F7&width=500&height=60&lines=Hi+%F0%9F%91%8B!+My+name+is+Viktor+Stanimirov.;I'm+learning+Python+in+SoftUni.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&pause=1200&color=D4E7F7&width=500&height=60&lines=Hi+%F0%9F%91%8B!+My+name+is+Viktor+Stanimirov.;I'm+learning+Python+in+SoftUni.)](https://git.io/typing-svg)
+
 
 ###
 <div align="center">
