@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&pause=1200&color=#5B8BFFFF&width=500&height=60&lines=Hi+%F0%9F%91%8B!+My+name+is+Viktor+Stanimirov.;I'm+learning+Python+in+SoftUni.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&pause=1200&color=5B8BFFFF&width=500&height=60&lines=Hi+%F0%9F%91%8B!+My+name+is+Viktor+Stanimirov.;I'm+learning+Python+in+SoftUni.)](https://git.io/typing-svg)
 
 
 ###
@@ -8,7 +8,7 @@
 
 
 ### 
- ##  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&pause=1200&color=#5B8BFFFF&width=500&height=60&lines=Languages+%E2%80%8B%E2%80%8Band+tools+I+learn+and+use!" alt="Typing SVG"/></a>
+ ##  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&pause=1200&color=5B8BFFFF&width=500&height=60&lines=Languages+%E2%80%8B%E2%80%8Band+tools+I+learn+and+use!" alt="Typing SVG"/></a>
 
 ###                                                                                                                                                                                               
 <div align="left">
