@@ -17,6 +17,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+
 
  
 </div>
