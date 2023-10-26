@@ -19,6 +19,9 @@
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/postgresql/postgresql-original.svg" height="30" alt="pycharm logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img width="12" />
+
 
 
 
