@@ -19,9 +19,8 @@
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/postgresql/postgresql-original.svg" height="30" alt="pycharm logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-<img src="https://icongr.am/devicon/django-original.svg" height="30" alt="django logo"  />
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" height="30" alt="django logo"  />
 <img width="12" />
-
 
 
 
