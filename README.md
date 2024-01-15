@@ -22,6 +22,9 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 
+<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" /></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
+
 
 
 
