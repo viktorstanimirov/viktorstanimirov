@@ -9,8 +9,7 @@
 
 ### 
  ##  
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=35&pause=1200&color=5B8BFFFF&width=500&height=60&lines=Languages+%E2%80%8B%E2%80%8Band+tools+I+learn+and+use!" alt="Typing SVG"/></a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alex+Brush&size=35&pause=1200&color=5B8BFF&random=false&width=500&height=60&lines=Languages+and+tools+I+learn+and+use!)](https://git.io/typing-svg)
 ###                                                                                                                                                                                               
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
