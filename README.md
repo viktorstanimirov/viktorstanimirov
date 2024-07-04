@@ -51,6 +51,18 @@
 </div>
 
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/viktorstanimirov">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viktorstanimirov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viktorstanimirov&layout=compact&theme=algolia"/>
+</a>
+</p>
+
+
+
+
 
 
 <!--<summary>:zap: GitHub Stats</summary>
