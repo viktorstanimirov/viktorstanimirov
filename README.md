@@ -55,7 +55,8 @@
 
 <p align="center">
 <a href="https://github.com/viktorstanimirov">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viktorstanimirov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<!--   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=viktorstanimirov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viktorstanimirov&theme=dark&background=000000)](https://git.io/streak-stats)
   <img height="150em%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viktorstanimirov&layout=compact&theme=algolia"/>
 </a>
 </p>
