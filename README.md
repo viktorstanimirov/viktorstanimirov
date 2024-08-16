@@ -39,16 +39,12 @@
 
 ###
 
-<div align="left">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
-
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="/resources/grid-snake.svg" alt="snake">
-  </a>
-</div>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
