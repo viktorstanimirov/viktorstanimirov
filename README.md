@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alex+Brush&size=35&pause=1200&color=5B8BFF&random=false&width=500&height=60&lines=Hi+!+My+name+is+Viktor+Stanimirov;I'm+learning+Python+in+SoftUni.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alex+Brush&size=35&pause=1200&color=5B8BFF&random=false&width=500&height=60&lines=Hi+!+My+name+is+Viktor+Stanimirov;I'm+Python+Web+Developer.)](https://git.io/typing-svg)
 ###
 <div align="center">
 <img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" align="center" style="width: 50%" />
